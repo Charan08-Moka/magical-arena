@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.Scanner;
 
-public class soln {
+public class soln{
 
     // Player class representing each player in the game
     static class Player {
